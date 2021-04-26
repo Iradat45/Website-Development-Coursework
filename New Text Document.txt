@@ -1,2 +1,8 @@
 def method3():
-   return "done"
+   return "done - person1"
+
+def method2():
+   return "done - person2"
+
+def method1():
+   return "done - person3"
