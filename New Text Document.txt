@@ -2,6 +2,8 @@ def method3():
    return "done - person1"
 
 def method2():
+   do something here
+   do somethere else here
    return "done - person2"
 
 def method1():
